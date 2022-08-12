@@ -15,7 +15,6 @@
 
 ## Objects
 
-- 6 kyu https://www.codewars.com/kata/run-length-encoding
 - 6 kyu https://www.codewars.com/kata/lets-recycle
 
 ---
@@ -52,4 +51,5 @@
 
 ## Objects
 
+- ~~6 kyu https://www.codewars.com/kata/run-length-encoding~~
 - ~~7 kyu https://www.codewars.com/kata/my-language-skills~~
