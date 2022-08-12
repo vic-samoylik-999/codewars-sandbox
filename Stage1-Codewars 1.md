@@ -8,10 +8,6 @@
 
 - 6 kyu https://www.codewars.com/kata/sorting-by-bits
 
-## Functions
-
-- 6 kyu https://www.codewars.com/kata/can-you-keep-a-secret
-
 ## Date
 
 - 7 kyu https://www.codewars.com/kata/unlucky-days
@@ -45,6 +41,7 @@
 
 ## Functions
 
+- ~~6 kyu https://www.codewars.com/kata/can-you-keep-a-secret~~
 - ~~6 kyu https://www.codewars.com/kata/nuclear-missile-manager~~
 - ~~6 kyu https://www.codewars.com/kata/closures-and-scopes~~
 - ~~7 kyu https://www.codewars.com/kata/javascript-mathematician~~
