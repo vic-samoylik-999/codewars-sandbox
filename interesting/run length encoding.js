@@ -11,7 +11,7 @@
 //* runLengthEncoding("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbb")
 //*  
 
-// => [[34,'a'], [3,'b']]
+//* => [[34,'a'], [3,'b']]
 
 var runLengthEncoding = function(str){
     const res = []
