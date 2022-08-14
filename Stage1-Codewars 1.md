@@ -13,10 +13,6 @@
 - 7 kyu https://www.codewars.com/kata/unlucky-days
 - 4 kyu https://www.codewars.com/kata/human-readable-duration-format
 
-## Objects
-
-- 6 kyu https://www.codewars.com/kata/lets-recycle
-
 ---
 
 # Done
@@ -52,4 +48,5 @@
 ## Objects
 
 - ~~6 kyu https://www.codewars.com/kata/run-length-encoding~~
+- ~~6 kyu https://www.codewars.com/kata/lets-recycle~~
 - ~~7 kyu https://www.codewars.com/kata/my-language-skills~~
