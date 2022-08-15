@@ -10,7 +10,6 @@
 
 ## Date
 
-- 7 kyu https://www.codewars.com/kata/unlucky-days
 - 4 kyu https://www.codewars.com/kata/human-readable-duration-format
 
 ---
@@ -43,6 +42,7 @@
 
 ## Date
 
+- ~~7 kyu https://www.codewars.com/kata/unlucky-days~~
 - ~~7 kyu https://www.codewars.com/kata/the-coupon-code~~
 
 ## Objects
