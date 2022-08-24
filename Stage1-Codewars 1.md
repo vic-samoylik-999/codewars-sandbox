@@ -1,9 +1,5 @@
 # Codewars1-2022Q1
 
-## Numbers, strings
-
-- 6 kyu https://www.codewars.com/kata/handshake-problem
-
 ## Arrays
 
 - 6 kyu https://www.codewars.com/kata/sorting-by-bits
@@ -25,6 +21,7 @@
 - ~~6 kyu https://www.codewars.com/kata/duplicate-encoder~~
 - ~~6 kyu https://www.codewars.com/kata/n-th-fibonacci~~
 - ~~6 kyu https://www.codewars.com/kata/multiples-of-3-or-5~~
+- ~~6 kyu https://www.codewars.com/kata/handshake-problem~~
 
 ## Arrays
 
