@@ -12,3 +12,4 @@
 - ~~https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin~~ - Pig Latin (freeCodeCamp)
 - ~~https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/javascript~~ - Sort the odd
 - ~~https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents~~ - Binary Agents
+- ~~https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace~~ - Search and Replace
