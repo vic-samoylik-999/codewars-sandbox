@@ -14,17 +14,26 @@ lowercase t and a capital T should be considered the same character).
 
 */ 
 
+// function countChars(str){
+//    const lowerArr = str.toLowerCase().split(' ').join('')
+//    const letters = {}
+//    for(let i = 0; i < lowerArr.length; i++) {
+//     if(letters.hasOwnProperty(lowerArr[i])) {
+//       letters[lowerArr[i]] += 1
+//     } else {
+//       letters[lowerArr[i]] = 1
+//     }
+//    }  
+//    return letters
+// }
+
 function countChars(str){
-   const lowerArr = str.toLowerCase().split(' ').join('')
-   const letters = {}
-   for(let i = 0; i < lowerArr.length; i++) {
-    if(letters.hasOwnProperty(lowerArr[i])) {
-      letters[lowerArr[i]] += 1
-    } else {
-      letters[lowerArr[i]] = 1
-    }
-   }  
-   return letters
+  const lowerArr = str.toLowerCase().split(' ').join('')
+  const letters = {}
+  for(let i = 0; i < lowerArr.length; i++) {
+    letters[lowerArr[i]] ? letters[lowerArr[i]] += 1 : letters[lowerArr[i]] = 1
+  }  
+  return letters
 }
 
 console.log(countChars("Peggy Porth"));
